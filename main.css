@@ -1,0 +1,48 @@
+.navbar {
+  height: 70px;
+}
+.banner {
+  background: url(img/bg.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 25%;
+  color: white;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: white;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.row {
+  padding-top: 80px;
+}
+
+.panah {
+  color: #dc3545;
+}
+
+.kontak {
+  background-color: #343a40;
+  color: white;
+}
+.cp {
+  font-size: 10px;
+}
+.tentang img {
+  position: relative;
+  left: 100px;
+}
+.about {
+  background-color: #bbbbbb;
+}

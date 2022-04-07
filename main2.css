@@ -1,0 +1,30 @@
+.blog h2 {
+  padding-top: 20px;
+  bottom: 100px;
+}
+
+.navbar {
+  height: 70px;
+}
+
+.breadcrumbs {
+  padding-top: 90px;
+  padding-left: 30px;
+}
+.breadcrumbs h2 {
+  margin-left: 123px;
+}
+
+.breadcrumb {
+  float: right;
+  margin-right: 165px;
+  position: relative;
+  top: -40px;
+}
+.breadcrumb-item a {
+  color: red;
+  text-decoration: none;
+}
+.call {
+  background-color: rgb(211, 211, 211);
+}
